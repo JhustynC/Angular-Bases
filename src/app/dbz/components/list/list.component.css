@@ -1,0 +1,10 @@
+:host {
+  display: block;
+}
+
+.power_level{
+  font-family: 'Times New Roman', Times, serif;
+  color: red;
+  font-size: 20px;
+}
+
